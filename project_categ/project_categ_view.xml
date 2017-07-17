@@ -12,6 +12,8 @@
                         <newline/>
                         <field name="parent_id"/>
                         <newline/>
+                        <field name="code"/>
+                        <newline/>
                         <field name="child_ids" context="{'default_parent_id': active_id}"/>
                 </field>
             </field>
@@ -42,10 +44,6 @@
 
                 <field name="project_id" position="after">
                     <field name="task_categ_id" invisible="1"/>
-                </field>
-
-                <field name="categ_ids"  position="attributes">
-                    <attribute name="attrs">{'required':[('task_categ_id','!=',False)]}</attribute>
                 </field>
 
             </field>

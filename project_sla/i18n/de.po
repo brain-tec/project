@@ -3,15 +3,15 @@
 # * project_sla
 # 
 # Translators:
-# Rudolf Schnapka <rs@techno-flex.de>, 2016
+# Rudolf Schnapka <rs@techno-flex.de>, 2016-2017
 # Thomas A. Jaeger, 2015
-# Thomas A. Jaeger, 2015
+# Renzo Meister, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: project (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-24 08:57+0000\n"
-"PO-Revision-Date: 2016-02-26 15:04+0000\n"
+"POT-Creation-Date: 2017-05-31 08:36+0000\n"
+"PO-Revision-Date: 2017-05-31 13:31+0000\n"
 "Last-Translator: Rudolf Schnapka <rs@techno-flex.de>\n"
 "Language-Team: German (http://www.transifex.com/oca/OCA-project-8-0/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr "Erfüllungsgrad"
 #. module: project_sla
 #: field:project.sla.control,sla_achieved:0
 msgid "Achieved?"
-msgstr "SLA erfüllt?"
+msgstr "Leistung erbracht?"
 
 #. module: project_sla
 #: field:project.sla,active:0
@@ -119,6 +119,14 @@ msgid "Definitions"
 msgstr "Definitionen"
 
 #. module: project_sla
+#: field:project.sla,display_name:0 field:project.sla.control,display_name:0
+#: field:project.sla.controlled,display_name:0
+#: field:project.sla.line,display_name:0
+#: field:project.sla.report,display_name:0
+msgid "Display Name"
+msgstr "Anzeigename"
+
+#. module: project_sla
 #: field:project.sla.control,doc_id:0
 msgid "Document ID"
 msgstr "Dokumenten ID"
@@ -128,7 +136,7 @@ msgstr "Dokumenten ID"
 #: view:project.sla.report:project_sla.view_project_sla_report_search
 #: field:project.sla.report,document_model_id:0
 msgid "Document Model"
-msgstr "Datenmodell"
+msgstr "Documentmodell"
 
 #. module: project_sla
 #: view:project.issue:project_sla.project_issue_form_view_sla
@@ -180,6 +188,14 @@ msgstr "ID"
 #: field:project.sla.report,sla_closed:0
 msgid "Is Closed"
 msgstr "Ist beendet"
+
+#. module: project_sla
+#: field:project.sla,__last_update:0 field:project.sla.control,__last_update:0
+#: field:project.sla.controlled,__last_update:0
+#: field:project.sla.line,__last_update:0
+#: field:project.sla.report,__last_update:0
+msgid "Last Modified on"
+msgstr "Zuletzt geändert am"
 
 #. module: project_sla
 #: field:project.sla,write_uid:0 field:project.sla.control,write_uid:0

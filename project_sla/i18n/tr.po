@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: project (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-31 18:04+0000\n"
-"PO-Revision-Date: 2015-07-21 19:20+0000\n"
-"Last-Translator: <>\n"
+"POT-Creation-Date: 2016-12-24 04:00+0000\n"
+"PO-Revision-Date: 2016-12-30 20:48+0000\n"
+"Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Turkish (http://www.transifex.com/oca/OCA-project-8-0/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,7 +58,7 @@ msgstr ""
 #. module: project_sla
 #: field:project.sla,active:0
 msgid "Active"
-msgstr ""
+msgstr "Aktif"
 
 #. module: project_sla
 #: model:ir.model,name:project_sla.model_account_analytic_account
@@ -96,13 +96,13 @@ msgstr ""
 #: field:project.sla,create_uid:0 field:project.sla.control,create_uid:0
 #: field:project.sla.line,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Oluşturan"
 
 #. module: project_sla
 #: field:project.sla,create_date:0 field:project.sla.control,create_date:0
 #: field:project.sla.line,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Oluşturuldu"
 
 #. module: project_sla
 #: help:project.sla,control_field_id:0
@@ -114,6 +114,14 @@ msgstr ""
 #: view:project.sla.line:project_sla.view_sla_lines_tree
 msgid "Definitions"
 msgstr ""
+
+#. module: project_sla
+#: field:project.sla,display_name:0 field:project.sla.control,display_name:0
+#: field:project.sla.controlled,display_name:0
+#: field:project.sla.line,display_name:0
+#: field:project.sla.report,display_name:0
+msgid "Display Name"
+msgstr "Görünen İsim"
 
 #. module: project_sla
 #: field:project.sla.control,doc_id:0
@@ -139,7 +147,7 @@ msgstr ""
 #: selection:project.sla.controlled,sla_state:0
 #: selection:project.sla.report,sla_state:0 selection:project.task,sla_state:0
 msgid "Failed"
-msgstr ""
+msgstr "Başarısız"
 
 #. module: project_sla
 #: field:project.sla.report,failed_count:0
@@ -154,7 +162,7 @@ msgstr ""
 #. module: project_sla
 #: view:project.sla.report:project_sla.view_project_sla_report_search
 msgid "Group By..."
-msgstr ""
+msgstr "Grupla..."
 
 #. module: project_sla
 #: field:project.sla.line,limit_qty:0
@@ -171,7 +179,7 @@ msgstr ""
 #: field:project.sla.controlled,id:0 field:project.sla.line,id:0
 #: field:project.sla.report,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: project_sla
 #: field:project.sla.report,sla_closed:0
@@ -179,16 +187,24 @@ msgid "Is Closed"
 msgstr ""
 
 #. module: project_sla
+#: field:project.sla,__last_update:0 field:project.sla.control,__last_update:0
+#: field:project.sla.controlled,__last_update:0
+#: field:project.sla.line,__last_update:0
+#: field:project.sla.report,__last_update:0
+msgid "Last Modified on"
+msgstr "Son değişiklik"
+
+#. module: project_sla
 #: field:project.sla,write_uid:0 field:project.sla.control,write_uid:0
 #: field:project.sla.line,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Son güncelleyen"
 
 #. module: project_sla
 #: field:project.sla,write_date:0 field:project.sla.control,write_date:0
 #: field:project.sla.line,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Son güncelleme"
 
 #. module: project_sla
 #: field:project.sla.control,sla_limit_date:0
@@ -260,7 +276,7 @@ msgstr ""
 #. module: project_sla
 #: view:project.sla:project_sla.view_sla_form
 msgid "Rules"
-msgstr ""
+msgstr "Kurallar"
 
 #. module: project_sla
 #: model:ir.actions.act_window,name:project_sla.action_project_sla_report
@@ -394,7 +410,7 @@ msgstr ""
 #: selection:project.sla.controlled,sla_state:0
 #: selection:project.sla.report,sla_state:0 selection:project.task,sla_state:0
 msgid "Warning"
-msgstr ""
+msgstr "Uyarı"
 
 #. module: project_sla
 #: field:project.sla.control,sla_warn_date:0
