@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 3.8\n"
 
 #. module: project_role
-#: code:addons/project_role/models/project_role.py:98
+#: code:addons/project_role/models/project_role.py:97
 #, python-format
 msgid "%(parent)s / %(own)s"
 msgstr "%(parent)s / %(own)s"
@@ -335,7 +335,7 @@ msgid "Parent Role"
 msgstr "Nadrejena vloga"
 
 #. module: project_role
-#: code:addons/project_role/models/project_role.py:113
+#: code:addons/project_role/models/project_role.py:112
 #, python-format
 msgid "Please activate first parent role %s"
 msgstr "Najprej aktivirajte nadrejeno vlogo %s"
@@ -391,7 +391,7 @@ msgid "Role"
 msgstr "Vloga"
 
 #. module: project_role
-#: code:addons/project_role/models/project_role.py:81
+#: code:addons/project_role/models/project_role.py:80
 #, python-format
 msgid "Role \"%s\" conflicts with another role due to same name."
 msgstr "Vloga \"%s\" je v konfliktu z drugo vlogo z istim nazivom."
@@ -471,7 +471,7 @@ msgid "Website communication history"
 msgstr "Spletna kronologija komunikacij"
 
 #. module: project_role
-#: code:addons/project_role/models/project_role.py:91
+#: code:addons/project_role/models/project_role.py:90
 #, python-format
 msgid "You cannot create recursive roles."
 msgstr "Rekurzivne vloge niso dovoljene."

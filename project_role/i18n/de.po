@@ -17,7 +17,7 @@ msgstr ""
 "X-Generator: Weblate 3.7.1\n"
 
 #. module: project_role
-#: code:addons/project_role/models/project_role.py:98
+#: code:addons/project_role/models/project_role.py:97
 #, python-format
 msgid "%(parent)s / %(own)s"
 msgstr ""
@@ -346,7 +346,7 @@ msgid "Parent Role"
 msgstr "Projektrolle"
 
 #. module: project_role
-#: code:addons/project_role/models/project_role.py:113
+#: code:addons/project_role/models/project_role.py:112
 #, python-format
 msgid "Please activate first parent role %s"
 msgstr ""
@@ -402,7 +402,7 @@ msgid "Role"
 msgstr "Rolle"
 
 #. module: project_role
-#: code:addons/project_role/models/project_role.py:81
+#: code:addons/project_role/models/project_role.py:80
 #, python-format
 msgid "Role \"%s\" conflicts with another role due to same name."
 msgstr ""
@@ -494,7 +494,7 @@ msgid "Website communication history"
 msgstr "Website-Kommunikationshistorie"
 
 #. module: project_role
-#: code:addons/project_role/models/project_role.py:91
+#: code:addons/project_role/models/project_role.py:90
 #, python-format
 msgid "You cannot create recursive roles."
 msgstr ""
