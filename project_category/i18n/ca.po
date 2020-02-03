@@ -1,66 +1,63 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * project_category
+# 	* project_category
 #
-# Translators:
-# Juan José Scarafía <scarafia.juanjose@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 9.0c\n"
+"Project-Id-Version: Odoo Server 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-11 13:04+0000\n"
 "PO-Revision-Date: 2020-02-02 21:13+0000\n"
 "Last-Translator: eduardgm <eduard.garcia@qubiq.es>\n"
-"Language-Team: Spanish (https://www.transifex.com/adhoc/teams/46451/es/)\n"
-"Language: es\n"
+"Language-Team: none\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.10\n"
 
 #. module: project_category
 #: model_terms:ir.ui.view,arch_db:project_category.project_type_form
 msgid "Add a description..."
-msgstr "Añadir una descripción ..."
+msgstr "Afegir una descripció..."
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__project_ok
 #: model_terms:ir.ui.view,arch_db:project_category.project_type_search
 msgid "Can be applied for projects"
-msgstr "Puede ser aplicado para proyectos"
+msgstr "Pot ser aplicat per projectes"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__task_ok
 #: model_terms:ir.ui.view,arch_db:project_category.project_type_search
 msgid "Can be applied for tasks"
-msgstr "Puede ser aplicado para tareas"
+msgstr "Pot ser aplicat per tasques"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__complete_name
 msgid "Complete Name"
-msgstr "Nombre Completo"
+msgstr "Nom Complet"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__create_uid
 msgid "Created by"
-msgstr "Creado por"
+msgstr "Creat per"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__create_date
 msgid "Created on"
-msgstr "Creado el"
+msgstr "Creat el"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__description
 #: model_terms:ir.ui.view,arch_db:project_category.project_type_form
 msgid "Description"
-msgstr "Descripción"
+msgstr "Descripció"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__display_name
 msgid "Display Name"
-msgstr "Nombre mostrado"
+msgstr "Nom mostrat"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__id
@@ -70,49 +67,49 @@ msgstr "ID"
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type____last_update
 msgid "Last Modified on"
-msgstr "Última modificación en"
+msgstr "Última modificació en"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__write_uid
 msgid "Last Updated by"
-msgstr "Última actualización por"
+msgstr "Última actualització per"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__write_date
 msgid "Last Updated on"
-msgstr "Última actualización el"
+msgstr "Última actualització el"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__name
 msgid "Name"
-msgstr "Nombre"
+msgstr "Nom"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__parent_id
 msgid "Parent Type"
-msgstr "Tipo de Contacto"
+msgstr "Tipus de Contacte"
 
 #. module: project_category
 #: model:ir.model,name:project_category.model_project_project
 msgid "Project"
-msgstr "Proyecto"
+msgstr "Projecte"
 
 #. module: project_category
 #: model:ir.model,name:project_category.model_project_type
 #: model:ir.ui.menu,name:project_category.project_category
 msgid "Project Type"
-msgstr "Tipos de Proyectos"
+msgstr "Tipus de Projectes"
 
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__child_ids
 #: model_terms:ir.ui.view,arch_db:project_category.project_type_form
 msgid "Subtypes"
-msgstr "Subtipo"
+msgstr "Subtipus"
 
 #. module: project_category
 #: model:ir.model,name:project_category.model_project_task
 msgid "Task"
-msgstr "Tarea"
+msgstr "Tasca"
 
 #. module: project_category
 #: model:ir.actions.act_window,name:project_category.action_project_type
@@ -123,10 +120,10 @@ msgstr "Tarea"
 #: model_terms:ir.ui.view,arch_db:project_category.project_type_form
 #: model_terms:ir.ui.view,arch_db:project_category.project_type_search
 msgid "Type"
-msgstr "Tipo"
+msgstr "Tipus"
 
 #. module: project_category
 #: code:addons/project_category/models/project_type.py:0
 #, python-format
 msgid "You cannot create recursive project types."
-msgstr "No se puede crear Tipos de Proyectos recursivos."
+msgstr "No es poden crear tipus de projecte recursivament."
