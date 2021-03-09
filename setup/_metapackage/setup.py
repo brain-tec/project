@@ -10,14 +10,18 @@ setuptools.setup(
     install_requires=[
         'odoo14-addon-project_category',
         'odoo14-addon-project_deadline',
+        'odoo14-addon-project_key',
         'odoo14-addon-project_list',
         'odoo14-addon-project_parent_task_filter',
         'odoo14-addon-project_stage_closed',
         'odoo14-addon-project_stage_state',
         'odoo14-addon-project_status',
+        'odoo14-addon-project_tag',
         'odoo14-addon-project_task_add_very_high',
+        'odoo14-addon-project_task_code',
         'odoo14-addon-project_task_default_stage',
         'odoo14-addon-project_task_dependency',
+        'odoo14-addon-project_task_material',
         'odoo14-addon-project_template',
     ],
     classifiers=[
