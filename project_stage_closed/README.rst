@@ -25,7 +25,14 @@ Project Task Stage Closed
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
-This module provides a 'closed' flag on project task stages.
+.. warning::
+
+  This module is deprecated in version ``14.0``. All business logic has been removed
+  to use the ``is_closed`` field from ``project`` module. This module only contains
+  migration script.
+
+
+  This module used to provides a 'closed' flag on project task stages.
 
 **Table of contents**
 
@@ -72,6 +79,7 @@ Contributors
 
 * Saran Lim. <saranl@ecosoft.co.th>
 * Nattapol Sinsuphan<gamso321@gmail.com>
+* Pierre Verkest <pierreverkest84@gmail.com>
 
 Maintainers
 ~~~~~~~~~~~
