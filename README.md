@@ -9,6 +9,12 @@
 
 # project
 
+PR https://github.com/OCA/project/pull/887
+from https://github.com/vialaurea/OCA-project/tree/15.0-mig-project_template
+added to project branch https://github.com/brain-tec/project/tree/15.0.project_SY_639
+using PR https://github.com/brain-tec/project/compare/15.0.project_SY_639...vialaurea:15.0-mig-project_template
+to have the (not yet merged) module project_template.
+
 TODO: add repo description.
 
 <!-- /!\ do not modify below this line -->
