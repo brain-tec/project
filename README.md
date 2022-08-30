@@ -1,6 +1,7 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/project&target_branch=14.0)
-[![Build Status](https://travis-ci.com/OCA/project.svg?branch=14.0)](https://travis-ci.com/OCA/project)
+[![Pre-commit Status](https://github.com/OCA/project/actions/workflows/pre-commit.yml/badge.svg?branch=14.0)](https://github.com/OCA/project/actions/workflows/pre-commit.yml?query=branch%3A14.0)
+[![Build Status](https://github.com/OCA/project/actions/workflows/test.yml/badge.svg?branch=14.0)](https://github.com/OCA/project/actions/workflows/test.yml?query=branch%3A14.0)
 [![codecov](https://codecov.io/gh/OCA/project/branch/14.0/graph/badge.svg)](https://codecov.io/gh/OCA/project)
 [![Translation Status](https://translation.odoo-community.org/widgets/project-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/project-14-0/?utm_source=widget)
 
@@ -34,7 +35,7 @@ addon | version | maintainers | summary
 [project_stage_closed](project_stage_closed/) | 14.0.2.0.0 |  | Project Task Stage Closed
 [project_stage_state](project_stage_state/) | 14.0.1.1.0 |  | Restore State attribute removed from Project Stages in 8.0
 [project_status](project_status/) | 14.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Status
-[project_stock](project_stock/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock
+[project_stock](project_stock/) | 14.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock
 [project_stock_product_set](project_stock_product_set/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock Product Set
 [project_stock_request](project_stock_request/) | 14.0.1.0.0 |  | Create stock requests from a projects and project tasks
 [project_tag](project_tag/) | 14.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Tags
@@ -49,7 +50,7 @@ addon | version | maintainers | summary
 [project_timeline](project_timeline/) | 14.0.1.4.0 |  | Timeline view for projects
 [project_timeline_hr_timesheet](project_timeline_hr_timesheet/) | 14.0.1.0.0 |  | Shows the progress of tasks on the timeline view.
 [project_timeline_task_dependency](project_timeline_task_dependency/) | 14.0.1.0.0 |  | Render arrows between dependencies.
-[project_timesheet_time_control](project_timesheet_time_control/) | 14.0.1.0.0 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Project timesheet time control
+[project_timesheet_time_control](project_timesheet_time_control/) | 14.0.1.0.1 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Project timesheet time control
 
 [//]: # (end addons)
 
