@@ -24,11 +24,12 @@ addon | version | maintainers | summary
 [project_category](project_category/) | 14.0.1.0.0 |  | Project Types
 [project_deadline](project_deadline/) | 14.0.1.0.0 |  | Start date and deadline of projects.
 [project_duplicate_subtask](project_duplicate_subtask/) | 14.0.1.0.0 |  | The module adds an action to duplicate tasks with the child subtasks
+[project_gtd](project_gtd/) | 14.0.1.0.0 |  | Personal Tasks, Contexts, Timeboxes
 [project_hr](project_hr/) | 14.0.1.0.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Link HR with project
 [project_key](project_key/) | 14.0.1.0.2 |  | Module decorates projects and tasks with Project Key
 [project_list](project_list/) | 14.0.1.0.0 |  | Projects list view
 [project_mail_chatter](project_mail_chatter/) | 14.0.1.1.0 |  | Add message chatter on the Project form.
-[project_milestone](project_milestone/) | 14.0.1.1.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Milestones
+[project_milestone](project_milestone/) | 14.0.1.3.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Milestones
 [project_parent_task_filter](project_parent_task_filter/) | 14.0.1.2.0 |  | Add filters to show the parent or non parent tasks
 [project_recalculate](project_recalculate/) | 14.0.1.0.0 |  | Project Recalculate
 [project_role](project_role/) | 14.0.1.0.0 | [![alexey-pelykh](https://github.com/alexey-pelykh.png?size=30px)](https://github.com/alexey-pelykh) | Project role-based roster
