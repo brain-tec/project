@@ -23,7 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [project_department](project_department/) | 15.0.1.0.1 |  | Project Department Categorization
 [project_duplicate_subtask](project_duplicate_subtask/) | 15.0.1.0.0 |  | The module adds an action to duplicate tasks with the child subtasks
-[project_forecast_line](project_forecast_line/) | 15.0.1.1.1 |  | Project Forecast Lines
+[project_forecast_line](project_forecast_line/) | 15.0.1.2.0 |  | Project Forecast Lines
 [project_forecast_line_bokeh_chart](project_forecast_line_bokeh_chart/) | 15.0.1.0.2 |  | Project Forecast Lines Bokeh Chart
 [project_forecast_line_holidays_public](project_forecast_line_holidays_public/) | 15.0.1.0.1 |  | Project Forecast Lines taking public holidays into account
 [project_list](project_list/) | 15.0.2.0.0 |  | Projects list view
@@ -35,7 +35,7 @@ addon | version | maintainers | summary
 [project_stock](project_stock/) | 15.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock
 [project_stock_product_set](project_stock_product_set/) | 15.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock Product Set
 [project_task_add_very_high](project_task_add_very_high/) | 15.0.1.0.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Adds extra options 'High' and 'Very High' on tasks
-[project_task_code](project_task_code/) | 15.0.1.0.2 |  | Sequential Code for Tasks
+[project_task_code](project_task_code/) | 15.0.1.0.3 |  | Sequential Code for Tasks
 [project_task_default_stage](project_task_default_stage/) | 15.0.1.0.0 |  | Recovery default task stages for projects from v8
 [project_task_dependency](project_task_dependency/) | 15.0.1.0.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Enables to define dependencies (other tasks) of a task
 [project_task_material](project_task_material/) | 15.0.1.0.0 |  | Record products spent in a Task
