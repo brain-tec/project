@@ -3,7 +3,7 @@
 
 {
     "name": "Project Purchase Link",
-    "version": "12.0.1.1.0",
+    "version": "12.0.1.1.1",
     "license": "AGPL-3",
     "depends": [
         "project",
@@ -12,7 +12,7 @@
     ],
     "author": "AvanzOSC, "
               'Odoo Community Association (OCA)',
-    "website": "http://github.com/OCA/project.git",
+    "website": "https://github.com/OCA/project",
     "category": "Project",
     "data": [
         "views/project_project_view.xml",

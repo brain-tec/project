@@ -6,14 +6,14 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html).
 {
     'name': 'Project Work Breakdown Structure',
-    'version': '12.0.1.1.1',
+    'version': '12.0.1.1.2',
     'license': 'AGPL-3',
     'author': 'Matmoz d.o.o., '
               'Luxim d.o.o., '
               'Deneroteam, '
               'Eficent, '
               'Odoo Community Association (OCA)',
-    'website': 'https://www.github.com/OCA/project',
+    'website': 'https://github.com/OCA/project',
     'depends': [
         'account_analytic_parent',
         'account_analytic_sequence',
