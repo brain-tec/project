@@ -7,6 +7,10 @@
 
 <!-- /!\ do not modify above this line -->
 
+# BT Customizations
+Open OCA PRs merged:
+- [OCA#1370](https://github.com/OCA/project/pull/1370) project_sequence
+
 # project
 
 project
