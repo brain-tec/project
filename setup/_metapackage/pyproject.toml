@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-project"
-version = "18.0.20250325.1"
+version = "18.0.20250328.0"
 dependencies = [
     "odoo-addon-project_parent==18.0.*",
+    "odoo-addon-project_pivot==18.0.*",
     "odoo-addon-project_role==18.0.*",
     "odoo-addon-project_sequence==18.0.*",
     "odoo-addon-project_stage_last_update_date==18.0.*",
