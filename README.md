@@ -39,7 +39,7 @@ addon | version | maintainers | summary
 [project_sequence](project_sequence/) | 16.0.1.0.1 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) [![anddago78](https://github.com/anddago78.png?size=30px)](https://github.com/anddago78) | Add a sequence field to projects, filled automatically
 [project_stage_extra_info](project_stage_extra_info/) | 16.0.1.0.0 |  | Project Stage Extra Info
 [project_stage_last_update_date](project_stage_last_update_date/) | 16.0.1.0.0 |  | Project Stage Last Update Date
-[project_stock](project_stock/) | 16.0.1.3.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock
+[project_stock](project_stock/) | 16.0.1.3.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock
 [project_stock_analytic_tag](project_stock_analytic_tag/) | 16.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock Analytic Tag
 [project_stock_product_set](project_stock_product_set/) | 16.0.2.1.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Stock Product Set
 [project_tag_hierarchy](project_tag_hierarchy/) | 16.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Tag Hierarchy
@@ -52,8 +52,9 @@ addon | version | maintainers | summary
 [project_task_description_template](project_task_description_template/) | 16.0.1.0.0 |  | Add a description template to project tasks
 [project_task_link](project_task_link/) | 16.0.1.0.1 |  | Project Task Link
 [project_task_material](project_task_material/) | 16.0.1.0.0 |  | Record products spent in a Task
-[project_task_name_with_id](project_task_name_with_id/) | 16.0.1.0.0 |  | Project Task Name with ID
+[project_task_name_with_id](project_task_name_with_id/) | 16.0.1.0.1 |  | Project Task Name with ID
 [project_task_note](project_task_note/) | 16.0.1.0.0 | [![carolina-fernandez](https://github.com/carolina-fernandez.png?size=30px)](https://github.com/carolina-fernandez) | Add notes in project tasks
+[project_task_parent_due_auto](project_task_parent_due_auto/) | 16.0.1.0.0 | [![david-banon-tecnativa](https://github.com/david-banon-tecnativa.png?size=30px)](https://github.com/david-banon-tecnativa) | Recalculates parent task's due date when child task changes
 [project_task_personal_stage_auto_fold](project_task_personal_stage_auto_fold/) | 16.0.1.0.0 |  | Moves task to the first fold personal stage when done
 [project_task_project_required](project_task_project_required/) | 16.0.1.0.0 |  | Set project on task as a mandatory field
 [project_task_pull_request](project_task_pull_request/) | 16.0.1.0.0 |  | Adds a field for a PR URI to project tasks
