@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-project"
-version = "18.0.20250523.0"
+version = "18.0.20250527.0"
 dependencies = [
     "odoo-addon-project_department==18.0.*",
     "odoo-addon-project_parent==18.0.*",
@@ -21,6 +21,7 @@ dependencies = [
     "odoo-addon-project_task_stock==18.0.*",
     "odoo-addon-project_task_stock_product_set==18.0.*",
     "odoo-addon-project_timeline==18.0.*",
+    "odoo-addon-project_timeline_hr_timesheet==18.0.*",
     "odoo-addon-project_timesheet_time_control==18.0.*",
     "odoo-addon-project_type==18.0.*",
 ]

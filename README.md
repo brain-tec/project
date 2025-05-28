@@ -40,6 +40,7 @@ addon | version | maintainers | summary
 [project_task_stock](project_task_stock/) | 18.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Task Stock
 [project_task_stock_product_set](project_task_stock_product_set/) | 18.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Project Task Stock Product Set
 [project_timeline](project_timeline/) | 18.0.1.0.0 |  | Timeline view for projects
+[project_timeline_hr_timesheet](project_timeline_hr_timesheet/) | 18.0.1.0.0 |  | Shows the progress of tasks on the timeline view.
 [project_timesheet_time_control](project_timesheet_time_control/) | 18.0.1.0.3 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Project timesheet time control
 [project_type](project_type/) | 18.0.1.0.0 |  | Project Types
 
