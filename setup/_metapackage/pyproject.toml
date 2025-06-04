@@ -1,12 +1,14 @@
 [project]
 name = "odoo-addons-oca-project"
-version = "18.0.20250602.3"
+version = "18.0.20250604.0"
 dependencies = [
     "odoo-addon-project_department==18.0.*",
     "odoo-addon-project_key==18.0.*",
     "odoo-addon-project_milestone_status==18.0.*",
     "odoo-addon-project_parent==18.0.*",
+    "odoo-addon-project_parent_task_filter==18.0.*",
     "odoo-addon-project_pivot==18.0.*",
+    "odoo-addon-project_purchase_link==18.0.*",
     "odoo-addon-project_role==18.0.*",
     "odoo-addon-project_scrum==18.0.*",
     "odoo-addon-project_sequence==18.0.*",
@@ -16,6 +18,7 @@ dependencies = [
     "odoo-addon-project_tag_security==18.0.*",
     "odoo-addon-project_task_add_very_high==18.0.*",
     "odoo-addon-project_task_default_stage==18.0.*",
+    "odoo-addon-project_task_name_with_id==18.0.*",
     "odoo-addon-project_task_note==18.0.*",
     "odoo-addon-project_task_parent_completion_blocking==18.0.*",
     "odoo-addon-project_task_parent_due_auto==18.0.*",
@@ -29,6 +32,7 @@ dependencies = [
     "odoo-addon-project_timeline_hr_timesheet==18.0.*",
     "odoo-addon-project_timesheet_time_control==18.0.*",
     "odoo-addon-project_type==18.0.*",
+    "odoo-addon-project_version==18.0.*",
 ]
 classifiers=[
     "Programming Language :: Python",
