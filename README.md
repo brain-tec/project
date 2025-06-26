@@ -36,6 +36,7 @@ addon | version | maintainers | summary
 [project_tag_multicompany](project_tag_multicompany/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Project Tag Multicompany
 [project_tag_security](project_tag_security/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Project Tag Security
 [project_task_add_very_high](project_task_add_very_high/) | 18.0.1.1.0 | <a href='https://github.com/astirpe'><img src='https://github.com/astirpe.png' width='32' height='32' style='border-radius:50%;' alt='astirpe'/></a> | Adds extra options 'High' and 'Very High' on tasks
+[project_task_code](project_task_code/) | 18.0.1.0.0 |  | Sequential Code for Tasks
 [project_task_default_stage](project_task_default_stage/) | 18.0.1.0.0 |  | Recovery default task stages for projects from v8
 [project_task_name_with_id](project_task_name_with_id/) | 18.0.1.0.0 |  | Project Task Name with ID
 [project_task_note](project_task_note/) | 18.0.1.0.0 | <a href='https://github.com/pilar-vargas'><img src='https://github.com/pilar-vargas.png' width='32' height='32' style='border-radius:50%;' alt='pilar-vargas'/></a> | Add notes in project tasks
