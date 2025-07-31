@@ -1,9 +1,10 @@
 [project]
 name = "odoo-addons-oca-project"
-version = "18.0.20250625.0"
+version = "18.0.20250730.2"
 dependencies = [
     "odoo-addon-project_department==18.0.*",
     "odoo-addon-project_key==18.0.*",
+    "odoo-addon-project_merge==18.0.*",
     "odoo-addon-project_milestone_status==18.0.*",
     "odoo-addon-project_parent==18.0.*",
     "odoo-addon-project_parent_task_filter==18.0.*",
@@ -28,12 +29,14 @@ dependencies = [
     "odoo-addon-project_task_stage_state==18.0.*",
     "odoo-addon-project_task_stock==18.0.*",
     "odoo-addon-project_task_stock_product_set==18.0.*",
+    "odoo-addon-project_task_tag==18.0.*",
     "odoo-addon-project_template==18.0.*",
     "odoo-addon-project_timeline==18.0.*",
     "odoo-addon-project_timeline_hr_timesheet==18.0.*",
     "odoo-addon-project_timesheet_time_control==18.0.*",
     "odoo-addon-project_type==18.0.*",
     "odoo-addon-project_version==18.0.*",
+    "odoo-addon-sale_project_task_recurrency==18.0.*",
 ]
 classifiers=[
     "Programming Language :: Python",
