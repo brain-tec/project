@@ -46,6 +46,7 @@ addon | version | maintainers | summary
 [project_task_code](project_task_code/) | 18.0.1.0.1 |  | Sequential Code for Tasks
 [project_task_code_portal](project_task_code_portal/) | 18.0.1.1.1 |  | Use custom task code in customer portal
 [project_task_default_stage](project_task_default_stage/) | 18.0.1.0.0 |  | Recovery default task stages for projects from v8
+[project_task_description_portal](project_task_description_portal/) | 18.0.1.0.0 |  | Dedicated task description for portal users
 [project_task_description_template](project_task_description_template/) | 18.0.1.0.0 |  | Add a description template to project tasks
 [project_task_material](project_task_material/) | 18.0.1.0.0 |  | Record products spent in a Task
 [project_task_name_with_id](project_task_name_with_id/) | 18.0.1.0.0 |  | Project Task Name with ID
