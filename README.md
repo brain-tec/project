@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# project
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/project&target_branch=16.0)
 [![Pre-commit Status](https://github.com/OCA/project/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/project/actions/workflows/pre-commit.yml?query=branch%3A16.0)
 [![Build Status](https://github.com/OCA/project/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/project/actions/workflows/test.yml?query=branch%3A16.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/project-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/project-16-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# project
 
 TODO: add repo description.
 
@@ -24,7 +25,7 @@ addon | version | maintainers | summary
 [project_administrator_restricted_visibility](project_administrator_restricted_visibility/) | 16.0.1.0.2 | <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/edlopen'><img src='https://github.com/edlopen.png' width='32' height='32' style='border-radius:50%;' alt='edlopen'/></a> | Adds a 'Project Administrator' access group with restricted visibility to 'Projects'
 [project_department](project_department/) | 16.0.1.0.0 |  | Project Department Categorization
 [project_duplicate_subtask](project_duplicate_subtask/) | 16.0.1.0.0 |  | The module adds an action to duplicate tasks with the child subtasks
-[project_hr](project_hr/) | 16.0.1.0.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Link HR with project
+[project_hr](project_hr/) | 16.0.1.0.1 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Link HR with project
 [project_internal_access_from_portal](project_internal_access_from_portal/) | 16.0.1.0.1 |  | Show internal projects in portal
 [project_key](project_key/) | 16.0.2.0.0 |  | Module decorates projects and tasks with Project Key
 [project_list](project_list/) | 16.0.1.0.1 |  | Projects list view
