@@ -23,12 +23,15 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [project_department](project_department/) | 19.0.1.0.0 |  | Project Department Categorization
 [project_task_default_stage](project_task_default_stage/) | 19.0.1.0.0 |  | Recovery default task stages for projects from v8
+[project_task_description_template](project_task_description_template/) | 19.0.1.0.0 |  | Add a description template to project tasks
+[project_task_name_with_id](project_task_name_with_id/) | 19.0.1.1.0 |  | Project Task Name with ID
 [project_task_note](project_task_note/) | 19.0.1.0.0 | <a href='https://github.com/pilarvargas-tecnativa'><img src='https://github.com/pilarvargas-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='pilarvargas-tecnativa'/></a> | Add notes in project tasks
 [project_task_pull_request](project_task_pull_request/) | 19.0.1.0.0 |  | Adds a field for a PR URI to project tasks
 [project_task_pull_request_state](project_task_pull_request_state/) | 19.0.1.0.0 |  | Track Pull Request state in tasks
 [project_task_stage_mgmt](project_task_stage_mgmt/) | 19.0.1.0.0 | <a href='https://github.com/DavidJForgeFlow'><img src='https://github.com/DavidJForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='DavidJForgeFlow'/></a> | Allows to assign and create task stages on project creation wizard
 [project_task_stage_state](project_task_stage_state/) | 19.0.1.0.0 |  | Restore State attribute removed from Project Stages in 8.0
 [project_type](project_type/) | 19.0.1.0.0 |  | Project Types
+[project_version](project_version/) | 19.0.1.0.0 | <a href='https://github.com/lbarry-apsl'><img src='https://github.com/lbarry-apsl.png' width='32' height='32' style='border-radius:50%;' alt='lbarry-apsl'/></a> | Project Version
 
 [//]: # (end addons)
 
