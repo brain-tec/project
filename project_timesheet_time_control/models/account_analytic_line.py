@@ -107,7 +107,6 @@ class AccountAnalyticLine(models.Model):
             "target": "new",
             "type": "ir.actions.act_window",
             "view_mode": "form",
-            "view_type": "form",
         }
 
     def button_end_work(self):
