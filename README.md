@@ -53,7 +53,7 @@ addon | version | maintainers | summary
 [project_tag_multicompany](project_tag_multicompany/) | 16.0.1.0.1 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Project Tag Multicompany
 [project_tag_security](project_tag_security/) | 16.0.1.0.1 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Project Tag Security
 [project_task_add_very_high](project_task_add_very_high/) | 16.0.1.1.0 | <a href='https://github.com/astirpe'><img src='https://github.com/astirpe.png' width='32' height='32' style='border-radius:50%;' alt='astirpe'/></a> | Adds extra options 'High' and 'Very High' on tasks
-[project_task_code](project_task_code/) | 16.0.1.1.1 |  | Sequential Code for Tasks
+[project_task_code](project_task_code/) | 16.0.1.2.0 |  | Sequential Code for Tasks
 [project_task_code_portal](project_task_code_portal/) | 16.0.1.2.0 |  | Use custom task code in customer portal
 [project_task_creation_description_notification](project_task_creation_description_notification/) | 16.0.1.0.0 |  | Project task description in notifications
 [project_task_default_stage](project_task_default_stage/) | 16.0.1.0.2 |  | Recovery default task stages for projects from v8
@@ -66,7 +66,7 @@ addon | version | maintainers | summary
 [project_task_parent_completion_blocking](project_task_parent_completion_blocking/) | 16.0.1.0.0 | <a href='https://github.com/david-banon-tecnativa'><img src='https://github.com/david-banon-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='david-banon-tecnativa'/></a> | Prevents a parent task from being completed if any children task isn't.
 [project_task_parent_due_auto](project_task_parent_due_auto/) | 16.0.1.0.1 | <a href='https://github.com/david-banon-tecnativa'><img src='https://github.com/david-banon-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='david-banon-tecnativa'/></a> | Recalculates parent task's due date when child task changes
 [project_task_personal_stage_auto_fold](project_task_personal_stage_auto_fold/) | 16.0.1.0.0 |  | Moves task to the first fold personal stage when done
-[project_task_project_required](project_task_project_required/) | 16.0.1.0.0 |  | Set project on task as a mandatory field
+[project_task_project_required](project_task_project_required/) | 16.0.1.1.0 |  | Set project on task as a mandatory field
 [project_task_pull_request](project_task_pull_request/) | 16.0.1.1.0 |  | Adds a field for a PR URI to project tasks
 [project_task_pull_request_state](project_task_pull_request_state/) | 16.0.1.0.0 |  | Track Pull Request state in tasks
 [project_task_recurring_activity](project_task_recurring_activity/) | 16.0.1.0.0 | <a href='https://github.com/dessanhemrayev'><img src='https://github.com/dessanhemrayev.png' width='32' height='32' style='border-radius:50%;' alt='dessanhemrayev'/></a> <a href='https://github.com/CetmixGitDrone'><img src='https://github.com/CetmixGitDrone.png' width='32' height='32' style='border-radius:50%;' alt='CetmixGitDrone'/></a> | Project Task Recurring Activity
