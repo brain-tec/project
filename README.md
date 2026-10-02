@@ -23,6 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [project_administrator_restricted_visibility](project_administrator_restricted_visibility/) | 19.0.1.0.0 | <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/edlopen'><img src='https://github.com/edlopen.png' width='32' height='32' style='border-radius:50%;' alt='edlopen'/></a> | Adds a 'Project Administrator' access group with restricted visibility to 'Projects'
 [project_department](project_department/) | 19.0.1.0.0 |  | Project Department Categorization
+[project_forecast_line](project_forecast_line/) | 19.0.1.0.0 |  | Project Forecast Lines
 [project_group](project_group/) | 19.0.1.0.0 |  | Add groups for filtering on projects
 [project_hr](project_hr/) | 19.0.1.0.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Link HR with project
 [project_hr_expense_analytic](project_hr_expense_analytic/) | 19.0.1.0.0 |  | Link expenses to a project and a task
@@ -61,6 +62,7 @@ addon | version | maintainers | summary
 [project_type](project_type/) | 19.0.1.0.0 |  | Project Types
 [project_version](project_version/) | 19.0.1.0.0 | <a href='https://github.com/lbarry-apsl'><img src='https://github.com/lbarry-apsl.png' width='32' height='32' style='border-radius:50%;' alt='lbarry-apsl'/></a> | Project Version
 [sale_project_copy_tasks](sale_project_copy_tasks/) | 19.0.1.0.0 | <a href='https://github.com/shide'><img src='https://github.com/shide.png' width='32' height='32' style='border-radius:50%;' alt='shide'/></a> <a href='https://github.com/EmilioPascual'><img src='https://github.com/EmilioPascual.png' width='32' height='32' style='border-radius:50%;' alt='EmilioPascual'/></a> | Copy tasks into sale order's project
+[sale_project_task_recurrency](sale_project_task_recurrency/) | 19.0.1.0.0 |  | Configuring Task Recurrence from the Product Form.
 
 [//]: # (end addons)
 
