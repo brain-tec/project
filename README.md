@@ -25,6 +25,7 @@ addon | version | maintainers | summary
 [project_department](project_department/) | 19.0.1.0.0 |  | Project Department Categorization
 [project_forecast_line](project_forecast_line/) | 19.0.1.0.0 |  | Project Forecast Lines
 [project_group](project_group/) | 19.0.1.0.0 |  | Add groups for filtering on projects
+[project_group_hr_timesheet](project_group_hr_timesheet/) | 19.0.1.0.0 |  | This module makes project group work properly with timesheets
 [project_hr](project_hr/) | 19.0.1.0.0 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Link HR with project
 [project_hr_expense_analytic](project_hr_expense_analytic/) | 19.0.1.0.0 |  | Link expenses to a project and a task
 [project_kanban_form_direct_access](project_kanban_form_direct_access/) | 19.0.1.0.0 |  | Project form view can now be accessed directly by clicking the project name.
@@ -56,7 +57,7 @@ addon | version | maintainers | summary
 [project_task_stage_auto_state](project_task_stage_auto_state/) | 19.0.1.0.1 | <a href='https://github.com/Shide'><img src='https://github.com/Shide.png' width='32' height='32' style='border-radius:50%;' alt='Shide'/></a> <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> | Auto-change task state (done/canceled) after N days on selected stages
 [project_task_stage_lock](project_task_stage_lock/) | 19.0.1.0.0 | <a href='https://github.com/DavidJForgeFlow'><img src='https://github.com/DavidJForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='DavidJForgeFlow'/></a> | Locks the Stages in the Kanban view of the project task to avoid modification of the stages in other projects.
 [project_task_stage_mgmt](project_task_stage_mgmt/) | 19.0.1.0.0 | <a href='https://github.com/DavidJForgeFlow'><img src='https://github.com/DavidJForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='DavidJForgeFlow'/></a> | Allows to assign and create task stages on project creation wizard
-[project_task_stage_state](project_task_stage_state/) | 19.0.1.0.0 |  | Restore State attribute removed from Project Stages in 8.0
+[project_task_stage_state](project_task_stage_state/) | 19.0.1.2.0 |  | Restore State attribute removed from Project Stages in 8.0
 [project_task_tag](project_task_tag/) | 19.0.1.0.0 |  | Limit tags available on task
 [project_timeline](project_timeline/) | 19.0.1.0.1 |  | Timeline view for projects
 [project_timeline_hr_timesheet](project_timeline_hr_timesheet/) | 19.0.1.0.0 |  | Shows the progress of tasks on the timeline view.
