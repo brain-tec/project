@@ -33,6 +33,7 @@ addon | version | maintainers | summary
 [project_key](project_key/) | 18.0.1.0.1 |  | Module decorates projects and tasks with Project Key
 [project_merge](project_merge/) | 18.0.1.0.0 |  | Wizard to merge project tasks
 [project_milestone_status](project_milestone_status/) | 18.0.1.0.0 | <a href='https://github.com/lbarry-apsl'><img src='https://github.com/lbarry-apsl.png' width='32' height='32' style='border-radius:50%;' alt='lbarry-apsl'/></a> | Project Milestone Status
+[project_multi_department](project_multi_department/) | 18.0.1.0.0 |  | This module add a link between projects and several departments
 [project_no_portal](project_no_portal/) | 18.0.1.0.0 | <a href='https://github.com/divad1196'><img src='https://github.com/divad1196.png' width='32' height='32' style='border-radius:50%;' alt='divad1196'/></a> | Block portal access on project.project and project.task
 [project_parent](project_parent/) | 18.0.1.0.1 |  | Project Parent
 [project_parent_task_filter](project_parent_task_filter/) | 18.0.1.0.0 |  | Add a filter to show the parent tasks
@@ -48,6 +49,7 @@ addon | version | maintainers | summary
 [project_stage_last_update_date](project_stage_last_update_date/) | 18.0.1.0.0 |  | Project Stage Last Update Date
 [project_stakeholder](project_stakeholder/) | 18.0.1.0.0 |  | Manage project stakeholders and their roles
 [project_status](project_status/) | 18.0.1.0.0 | <a href='https://github.com/patrickrwilson'><img src='https://github.com/patrickrwilson.png' width='32' height='32' style='border-radius:50%;' alt='patrickrwilson'/></a> | Project Status
+[project_sub_manager](project_sub_manager/) | 18.0.1.0.0 | <a href='https://github.com/cvinh'><img src='https://github.com/cvinh.png' width='32' height='32' style='border-radius:50%;' alt='cvinh'/></a> | Add a sub manager field to projects
 [project_tag_hierarchy](project_tag_hierarchy/) | 18.0.1.0.1 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Project Tag Hierarchy
 [project_tag_multicompany](project_tag_multicompany/) | 18.0.1.0.1 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Project Tag Multicompany
 [project_tag_security](project_tag_security/) | 18.0.1.0.1 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Project Tag Security
@@ -91,6 +93,7 @@ addon | version | maintainers | summary
 [sale_project_task_description_template](sale_project_task_description_template/) | 18.0.1.0.0 | <a href='https://github.com/NICO-SOLUTIONS'><img src='https://github.com/NICO-SOLUTIONS.png' width='32' height='32' style='border-radius:50%;' alt='NICO-SOLUTIONS'/></a> | Apply task description templates from products to tasks, with optional sale info
 [sale_project_task_recurrency](sale_project_task_recurrency/) | 18.0.1.0.0 |  | Configuring Task Recurrence from the Product Form.
 [sale_project_task_selection](sale_project_task_selection/) | 18.0.1.0.1 | <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Manually select the Task or Project for a Sale Order Line
+[website_project_task_code](website_project_task_code/) | 18.0.1.0.1 |  | Show task code in project task creation in website
 
 [//]: # (end addons)
 
