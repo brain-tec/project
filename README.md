@@ -24,7 +24,7 @@ addon | version | maintainers | summary
 [project_administrator_restricted_visibility](project_administrator_restricted_visibility/) | 19.0.1.0.2 | <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/edlopen'><img src='https://github.com/edlopen.png' width='32' height='32' style='border-radius:50%;' alt='edlopen'/></a> | Adds a 'Project Administrator' access group with restricted visibility to 'Projects'
 [project_department](project_department/) | 19.0.1.0.0 |  | Project Department Categorization
 [project_forecast_line](project_forecast_line/) | 19.0.1.0.0 |  | Project Forecast Lines
-[project_group](project_group/) | 19.0.1.0.0 |  | Add groups for filtering on projects
+[project_group](project_group/) | 19.0.1.0.1 |  | Add groups for filtering on projects
 [project_group_hr_timesheet](project_group_hr_timesheet/) | 19.0.1.0.0 |  | This module makes project group work properly with timesheets
 [project_hr](project_hr/) | 19.0.1.0.2 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Link HR with project
 [project_hr_expense_analytic](project_hr_expense_analytic/) | 19.0.1.0.0 |  | Link expenses to a project and a task
@@ -46,7 +46,7 @@ addon | version | maintainers | summary
 [project_task_code_portal](project_task_code_portal/) | 19.0.1.0.0 |  | Use custom task code in customer portal
 [project_task_customer_ref](project_task_customer_ref/) | 19.0.1.0.0 |  | Adds Order Customer Reference to tasks, syncs it to the linked sale order, and exposes it on website webforms.
 [project_task_default_stage](project_task_default_stage/) | 19.0.1.0.0 |  | Recovery default task stages for projects from v8
-[project_task_default_user](project_task_default_user/) | 19.0.1.0.0 | <a href='https://github.com/NICO-SOLUTIONS'><img src='https://github.com/NICO-SOLUTIONS.png' width='32' height='32' style='border-radius:50%;' alt='NICO-SOLUTIONS'/></a> | Auto assign default users to tasks or when changing task stages
+[project_task_default_user](project_task_default_user/) | 19.0.1.0.1 | <a href='https://github.com/NICO-SOLUTIONS'><img src='https://github.com/NICO-SOLUTIONS.png' width='32' height='32' style='border-radius:50%;' alt='NICO-SOLUTIONS'/></a> | Auto assign default users to tasks or when changing task stages
 [project_task_description_template](project_task_description_template/) | 19.0.1.0.2 |  | Add a description template to project tasks
 [project_task_name_with_id](project_task_name_with_id/) | 19.0.1.1.1 |  | Project Task Name with ID
 [project_task_note](project_task_note/) | 19.0.1.0.0 | <a href='https://github.com/pilarvargas-tecnativa'><img src='https://github.com/pilarvargas-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='pilarvargas-tecnativa'/></a> | Add notes in project tasks
